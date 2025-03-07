@@ -1,6 +1,6 @@
 package org.example.carrental.controller.processor;
 
-import org.example.carrental.entity.Car;
+import org.example.carrental.car.domain.Car;
 import org.springframework.stereotype.Component;
 import org.springframework.web.multipart.MultipartFile;
 
